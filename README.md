@@ -3,6 +3,9 @@
 ## Purpose
 This project is a simple game. It can help for beginner to understand Unity because it is quite simple.
 
+## Online Demo
+https://kencoder.itch.io/unity-tictactoe
+
 ## Gameplay
 It's a traditional game, see [Wiki](https://en.wikipedia.org/wiki/Tic-tac-toe) for detail
 
